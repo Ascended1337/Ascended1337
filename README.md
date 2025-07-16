@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">///////////////////////////////////////////////////////////////  I'm Oleksii Kazakov, alias "SoL6"<br><br>/////////////////////////////////////////////////////////////////// INTJ. Self-taught. Shadowmind<br><br>/////////////////////////////////////////////////////////// Raised by entropy. Guided by logic<br>////////////////////////////////////// I don’t belong to a method — I architect my own<br><br>///////////////////////////////////////////// There is no roadmap. No mentors. No noise<br>//////////////////////////////////////////////////////////////////// Only signal, silence — and me</h2>
+<h3 align="center"> I'm Oleksii Kazakov, alias "SoL6"<br><br>/ INTJ. Self-taught. Shadowmind<br><br> Raised by entropy. Guided by logic<br> I don’t belong to a method — I architect my own<br><br> There is no roadmap. No mentors. No noise<br> Only signal, silence — and me</h2>
 
 ###
 
