@@ -70,7 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ascended1337&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=55&date_format=j/n%5B/Y%5D" height="250" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ascended1337&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=55&date_format=j/n%5B/Y%5D" height="100" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Ascended1337&theme=dracula&column=4&row=2&margin-w=25&margin-h=25&no-bg=true&no-frame=true" height="500" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ascended1337&theme=redical&radius=100&area=true&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="500" alt="activity-graph graph"  />
 </div>
